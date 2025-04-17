@@ -1,4 +1,4 @@
-# The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts
+# Information distortion in a supply chain: The bullwhip effect
 
 > 作者：Christof Ferreira Torres<sup>1</sup>, Antonio Iannillo<sup>1</sup>, Arthur Gervais<sup>2</sup>, and Radu State<sup>1</sup>
 >
@@ -6,7 +6,7 @@
 >
 > 出处：arXiv preprint 2021
 >
-> 原文：[The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf)
+> 原文：[Information distortion in a supply chain: The bullwhip effect]([https://arxiv.org/pdf/2101.06204.pdf](https://courses.ie.bilkent.edu.tr/ie460/wp-content/uploads/sites/12/2019/02/Lee-Padmanabhan-Whang-1997-MS.pdf))
 
 ## 1 Abstract
 
