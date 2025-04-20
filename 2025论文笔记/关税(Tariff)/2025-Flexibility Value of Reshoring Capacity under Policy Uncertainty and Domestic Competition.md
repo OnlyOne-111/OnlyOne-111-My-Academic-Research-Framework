@@ -40,7 +40,7 @@ reshoring investment. Since consumer tax credits directly influence market deman
 - 对过去4.5年的合约进行了分析，找到了8095个攻击以及1888个存有漏洞的合约。
 - 对最近出现的Uniswap攻击和Lendf.me攻击进行了分析。
 
-## 3 The Horus Framework
+## 3 The Tariff Policy Model
 
 Horus的整体框架如下图所示：
 ![Horus-Framework](/images/2021-04-02/Horus-Framework.png)
