@@ -1,6 +1,6 @@
 # Flexibility Value of Reshoring Capacity under Policy Uncertainty and Domestic Competition
 
-> 作者：Christof Ferreira Torres<sup>1</sup>, Antonio Iannillo<sup>1</sup>, Arthur Gervais<sup>2</sup>, and Radu State<sup>1</sup>
+> 作者：Panos Kouvelis<sup>1</sup>, Xiao Tan<sup>2</sup>, and Sammi Tang<sup>3</sup>
 >
 > 单位：<sup>1</sup>SnT, University of Luxembourg; <sup>2</sup>Imperial Collage London
 >
