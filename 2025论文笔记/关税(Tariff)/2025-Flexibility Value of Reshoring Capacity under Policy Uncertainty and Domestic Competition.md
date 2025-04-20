@@ -4,7 +4,7 @@
 >
 > 单位：<sup>1</sup>SnT, University of Luxembourg; <sup>2</sup>Imperial Collage London
 >
-> 出处：arXiv preprint 2021
+> 出处：... 2025
 >
 > 原文：[The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf)
 
