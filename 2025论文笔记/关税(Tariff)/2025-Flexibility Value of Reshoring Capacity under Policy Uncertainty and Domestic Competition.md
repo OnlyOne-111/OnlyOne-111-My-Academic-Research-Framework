@@ -6,7 +6,7 @@
 >
 > 出处：... 2025
 >
-> 原文：[The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf)
+> 原文：[Flexibility Value of Reshoring Capacity under Policy Uncertainty and Domestic Competition](https://arxiv.org/pdf/2101.06204.pdf)
 
 ## 1 Abstract
 
