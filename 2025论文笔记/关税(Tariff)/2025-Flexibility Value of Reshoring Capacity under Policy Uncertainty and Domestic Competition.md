@@ -21,9 +21,9 @@ reshoring investment. Since consumer tax credits directly influence market deman
 
 **方法与结果（Methodology/results）**：我们发现，成品（FG）关税的影响取决于两种相反的机制：
 
-**产量效应（output quantity effect）**：随着市场供货的单位成本上升，回流投资减少；
+> **1.产量效应（output quantity effect）**：随着市场供货的单位成本上升，回流投资减少；
 
-**需求溢出效应（overflow demand effect）**：为避免无法满足的产量转向海外，企业倾向于增加回流产能。
+> **2.需求溢出效应（overflow demand effect）**：为避免无法满足的产量转向海外，企业倾向于增加回流产能。
 原材料（RM）关税不会影响溢出产量，且总是通过产量效应抑制回流投资。
 
 由于消费者税收抵免直接影响市场需求，当企业的产量决策发生在需求和政策已明朗之后，产量效应不再存在。此时，溢出需求效应和因需求上升而带动的积极效应会刺激更多的回流投资。
