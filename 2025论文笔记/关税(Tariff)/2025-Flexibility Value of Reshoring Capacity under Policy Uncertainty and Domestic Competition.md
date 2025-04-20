@@ -17,7 +17,7 @@ reshoring investment. Since consumer tax credits directly influence market deman
 
 **Managerial implications:** For global firms, investing in reshoring capacity creates a “real option” in production allocation in serving the market, and the provided operational flexibility enhances competitiveness in an uncertain environment. For policymakers, it is crucial to carefully consider the tariff level, which stage of a supply chain to execute trade restrictions on, and tax credit amounts to be used. Very high tariffs on moderate size markets may have unexpected
 
-在最近几年，以太坊受到了广泛的关注。其日交易量从2016年的10K，增加到了2020年的500K。进而以太坊智能合约（下称合约）也将与越来越多的资金流通挂钩。但在价值提升的同时也必然受到更多的攻击，并将造成大量的经济损失。目前为止，学术界和工业界也已经开发了大量的工具，在部署合约前检测其漏洞。但是这些工具中的大部分都仅仅检测合约存在的漏洞，没有检测其瘦到的攻击，更没有量化和追踪资产流失情况。
+**问题定义：**在全球供应链运作中，企业面临日益增长的政策不确定性，这种不确定性影响从低成本国家向发达国家进口原材料（RM）与制成品（FG）的成本，同时也影响不同国家间的生产盈利能力比较。这促使企业构建更加多元化的全球供应链，通常表现为在现有海外工厂基础上增加本土生产。受到近期美国清洁能源产业发展的启发，本文采用博弈论模型，分析全球企业在政策不确定性下的回流产能投资与与本土企业之间的产量竞争，并考察相关政策对双方运营决策与盈利能力的影响。
 
 因此本文设计了HORUS框架，用于自动检测合约所受的攻击情况，并提供快速量化和追踪以太坊中资金流失情况的方法。在文中也对2020年5月前的合约进行分析测试。
 
