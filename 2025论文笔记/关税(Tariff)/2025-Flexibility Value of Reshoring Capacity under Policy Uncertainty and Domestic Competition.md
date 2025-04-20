@@ -2,7 +2,7 @@
 
 > 作者：Panos Kouvelis<sup>1</sup>, Xiao Tan<sup>2</sup>, and Sammi Tang<sup>3</sup>
 >
-> 单位：<sup>1</sup>SnT, University of Luxembourg; <sup>2</sup>Imperial Collage London
+> 单位：<sup>1</sup>Olin Business School, Washington University in St. Louis; <sup>2</sup>East China University of Science and Technology; <sup>3</sup>Herbert Business School, University of Miami
 >
 > 出处：... 2025
 >
