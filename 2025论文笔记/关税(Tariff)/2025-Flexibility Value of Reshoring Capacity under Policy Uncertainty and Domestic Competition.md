@@ -6,7 +6,7 @@
 >
 > 出处：... 2025
 >
-> 原文：[Flexibility Value of Reshoring Capacity under Policy Uncertainty and Domestic Competition](https://arxiv.org/pdf/2101.06204.pdf)
+> 原文：[Flexibility Value of Reshoring Capacity under Policy Uncertainty and Domestic Competition](https://pubsonline.informs.org/doi/pdf/10.1287/msom.2023.0387)
 
 ## 1 Abstract
 
